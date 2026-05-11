@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-
+#include <string.h>
 int main(){
 char test[] = "the quick brown fox jumps over the lazy dog"
 char imput[100];
